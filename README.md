@@ -1,2 +1,2 @@
 # GIT-HUB
-my first repository
+my first repository (lucky)
